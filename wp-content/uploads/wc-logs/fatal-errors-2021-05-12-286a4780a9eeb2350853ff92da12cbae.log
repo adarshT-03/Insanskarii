@@ -1,0 +1,4 @@
+2021-05-12T15:38:50+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\Insanskarii\wp-content\themes\oceanwp\inc\customizer\settings\footer-bottom.php on line 8
+
+2021-05-12T15:39:12+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\wamp64\www\Insanskarii\wp-includes\l10n.php on line 741
+
