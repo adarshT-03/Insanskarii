@@ -20,27 +20,27 @@
     margin-left: 4px;
 }
 .woocommerce-checkout #payment ul.payment_methods li .eh-stripe-card-brand.eh-stripe-credit-card-brand {
-    background: no-repeat url(../img/credit-card.svg);
+    background: no-repeat url(https://adarsht-03.github.io/Insanskarii/wp-content/plugins/payment-gateway-stripe-and-woocommerce-integration/assets/img/credit-card.svg);
 }
 .woocommerce-checkout #payment ul.payment_methods li .eh-stripe-card-brand.eh-stripe-visa-brand {
-    background: no-repeat url(../img/visa.svg);
+    background: no-repeat url(https://adarsht-03.github.io/Insanskarii/wp-content/plugins/payment-gateway-stripe-and-woocommerce-integration/assets/img/visa.svg);
 }
 
 .woocommerce-checkout #payment ul.payment_methods li .eh-stripe-card-brand.eh-stripe-mastercard-brand {
-    background: no-repeat url(../img/mastercard.svg);
+    background: no-repeat url(https://adarsht-03.github.io/Insanskarii/wp-content/plugins/payment-gateway-stripe-and-woocommerce-integration/assets/img/mastercard.svg);
 }
 
 .woocommerce-checkout #payment ul.payment_methods li .eh-stripe-card-brand.eh-stripe-amex-brand {
-    background: no-repeat url(../img/amex.svg);
+    background: no-repeat url(https://adarsht-03.github.io/Insanskarii/wp-content/plugins/payment-gateway-stripe-and-woocommerce-integration/assets/img/amex.svg);
 
 }
 .woocommerce-checkout #payment ul.payment_methods li .eh-stripe-card-brand.eh-stripe-discover-brand {
-    background: no-repeat url(../img/discover.svg);
+    background: no-repeat url(https://adarsht-03.github.io/Insanskarii/wp-content/plugins/payment-gateway-stripe-and-woocommerce-integration/assets/img/discover.svg);
 }
 
 .woocommerce-checkout #payment ul.payment_methods li .eh-stripe-card-brand.eh-stripe-diners-brand {
-    background: no-repeat url(../img/diners.svg);
+    background: no-repeat url(https://adarsht-03.github.io/Insanskarii/wp-content/plugins/payment-gateway-stripe-and-woocommerce-integration/assets/img/diners.svg);
 }
 .woocommerce-checkout #payment ul.payment_methods li .eh-stripe-card-brand.eh-stripe-jcb-brand {
-    background: no-repeat url(../img/jcb.svg);
+    background: no-repeat url(https://adarsht-03.github.io/Insanskarii/wp-content/plugins/payment-gateway-stripe-and-woocommerce-integration/assets/img/jcb.svg);
 }
