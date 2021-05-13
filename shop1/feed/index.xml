@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Products &#8211; Insanskarii</title>
+	<atom:link href="https://adarsht-03.github.io/Insanskarii/shop1/feed/" rel="self" type="application/rss+xml" />
+	<link>https://adarsht-03.github.io/Insanskarii</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Thu, 13 May 2021 09:25:51 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.1</generator>
+	<item>
+		<title>Black Short Sleeve</title>
+		<link>https://adarsht-03.github.io/Insanskarii/product/black-short-sleeve-3/</link>
+					<comments>https://adarsht-03.github.io/Insanskarii/product/black-short-sleeve-3/#respond</comments>
+		
+		<dc:creator><![CDATA[Adarsh12]]></dc:creator>
+		<pubDate>Thu, 13 May 2021 08:26:18 +0000</pubDate>
+				<guid isPermaLink="false">https://adarsht-03.github.io/Insanskarii/?post_type=product&#038;p=278</guid>
+
+					<description><![CDATA[Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.]]></description>
+										<content:encoded><![CDATA[<p><strong>Lorem Ipsum</strong> is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#8217;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://adarsht-03.github.io/Insanskarii/product/black-short-sleeve-3/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Men&#8217;s Jacket</title>
+		<link>https://adarsht-03.github.io/Insanskarii/product/mens-jacket/</link>
+					<comments>https://adarsht-03.github.io/Insanskarii/product/mens-jacket/#respond</comments>
+		
+		<dc:creator><![CDATA[Adarsh12]]></dc:creator>
+		<pubDate>Thu, 13 May 2021 04:14:27 +0000</pubDate>
+				<guid isPermaLink="false">https://adarsht-03.github.io/Insanskarii/?post_type=product&#038;p=268</guid>
+
+					<description><![CDATA[odel text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).]]></description>
+										<content:encoded><![CDATA[<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using &#8216;Content here, content here&#8217;, making it look like readable English.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://adarsht-03.github.io/Insanskarii/product/mens-jacket/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
